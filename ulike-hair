@@ -2,4 +2,13 @@
 layout: page
 title: "Ulike at Home Laser Removal"
 permalink: /ulike
-<!DOCTYPE html> <html> <head> <title>Your Page Title</title> </head> <body> <h1>Welcome to my Homepage</h1> <script> setTimeout(function() { window.location.href = 'https://lvnta.com/lv_x7ljhs7MyqJlpHf9SE'; }, 0); </script> </body> </html>
+<!DOCTYPE html> 
+<html> <head>
+<title>Your Page Title</title>
+</head> 
+<body> 
+<h1>Welcome to my Homepage</h1>
+<script> setTimeout(function() { window.location.href = 'https://lvnta.com/lv_x7ljhs7MyqJlpHf9SE'; }, 0); 
+</script> 
+</body>
+</html>
