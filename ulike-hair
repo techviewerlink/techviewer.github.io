@@ -1,3 +1,7 @@
 layout: page
 title: "Ulike at Home Laser Removal"
 permalink: /ulike
+src/redirects/lib/external-sites.json
+{
+  "/ulike-hair": "https://lvnta.com/lv_x7ljhs7MyqJlpHf9SE"
+}
