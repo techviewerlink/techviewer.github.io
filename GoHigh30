@@ -6,6 +6,7 @@
 </head> 
 <body> 
 <h1>Go High Level 30 Day Trail</h1>
-
+<script> setTimeout(function() { window.location.href = 'https://www.gohighlevel.com/highlevel-bootcamp?fp_ref=signup999'; }, 0); 
+</script> 
 </body>
 </html>
